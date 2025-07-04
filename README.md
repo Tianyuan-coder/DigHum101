@@ -1,5 +1,5 @@
 # DigHum101
-*Team Memeber*
+*Team Members*
 Liuliu Yao
 Tianyuan Pei
 Zoë Davin
